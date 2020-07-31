@@ -19,16 +19,7 @@ Gathering all the historical earthquake data, there is a possibility to predict 
 
 
 
-Short description
-Problem statement:
-	Earthquakes are one of the major catastrophe and their unpredictability causes even more destruction in terms of human life and animal life, including changes in geologic features, damage to man-made structures and financial forms. The damage is not caused by the quake itself but by the collapse of buildings with people inside them.	
-	 The types of impacts depend to a large degree on where the earthquake is located: whether it is predominantly urban or rural, densely or sparsely populated, highly developed or underdeveloped.
 
-How can technology help?
-	Although significant progress has been made in understanding the seismic activity and also in few technologies which predicts the earthquake but still we don’t have a satisfactory way and not so effective technology to handle the situation. 
-
-The Idea:
-Gathering all the historical earthquake data, there is a possibility to predict the upcoming disaster in a specific area.
 
  
 
@@ -78,7 +69,7 @@ Bee APP:
 
 
 
-Buzzing Bee Platform Summary:
+# Buzzing Bee Platform Summary:
 The Problem:
 •	Earthquakes: Nature's most unpredictable and one of the most devastating natural disasters. Some of the common impacts of earthquakes include structural damage to buildings, fires, damage to bridges and highways, initiation of slope failures and tsunami.
 •	The damage is not caused by the quake itself but by the collapse of buildings with people inside them. When high intensity earthquakes strike they can cause thousands of deaths and billions of dollars in damaged property and economical loss too.
@@ -88,7 +79,7 @@ The Problem:
 
 
  
-The Solution:
+# The Solution:
 1.	Buzzing Bee precautious alarm:
 To the people who are using Buzzing Bee method (apk or web), we intend to share alert alarm pre-timed to the disaster. By doing so, Buzzing Bee gives people the earthquake warning and it gives them enough time to leave their properties or to evacuate their places. This saves lives of people. Individuals can use our app to reduce the amount of injuries and fatalities that an earthquake can cause.
 
